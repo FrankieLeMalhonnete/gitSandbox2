@@ -1,0 +1,10 @@
+body {
+    background: lightblue;
+    font: 18px Arial, sans-serif;
+}
+h1 {
+    color: rgb(61, 62, 66);
+}
+.img_block {
+    border-color: gold;
+}
